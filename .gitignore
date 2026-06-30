@@ -1,0 +1,18 @@
+# Standardmäßig alles ignorieren
+*
+
+# Aber Verzeichnisse nicht ignorieren, damit git sie durchsuchen kann
+!*/
+
+# Die beiden gewünschten Präsentationsordner und deren Inhalte freigeben
+!KI Literacy Basics/**
+!KI und Wir/**
+
+# Nur die Root-Dateien für GitHub Pages freigeben
+!/index.html
+!/.gitignore
+!/README.md
+
+# Systemdateien und temporäre Archive innerhalb der Präsentationen ignorieren
+**/.DS_Store
+**/*.zip

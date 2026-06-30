@@ -1,0 +1,16 @@
+{
+  "title": "KI Literacy Basics",
+  "subtitle": "Grundlagen der Künstlichen Intelligenz für Studierende",
+  "author": "Prof. Dr. Mathias Engel",
+  "institution": "HFWU Nuertingen-Geislingen",
+  "targetAudience": "1. Semester Studierende",
+  "timing": {
+    "durationMinutes": 60,
+    "desiredSlideCount": 32
+  },
+  "locales": ["de"],
+  "theme": {
+    "default": "system",
+    "aspectRatio": "16:9"
+  }
+}

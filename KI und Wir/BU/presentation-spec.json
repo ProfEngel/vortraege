@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 4,
+  "title": "Mensch und KI – Wie wir morgen leben, lernen und arbeiten",
+  "event": "Schulkooperation, Max-Planck-Gymnasium Nürtingen, 07.07.2026, 09:00 Uhr",
+  "presenter": "Prof. Dr. Mathias Engel",
+  "languages": ["de"],
+  "ratio": "16:9",
+  "durationMinutes": 45,
+  "audience": "J1-Schüler:innen mit wenig Vorwissen",
+  "style": "gedämpfte Pastellfarben, Symbole vor Text, Light/Dark/System",
+  "interactionTarget": 6,
+  "research": "Demografie, Aufgabenwandel, Skills, Governance; siehe sources/sources.json",
+  "sources": "sources/source-overview.html",
+  "review": "review.html",
+  "print": "presentation.html via Browser-Druckdialog"
+}

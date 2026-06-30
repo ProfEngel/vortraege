@@ -1,0 +1,17 @@
+{
+  "prompt": "Human-centred educational editorial illustration, 16:9, for a German lecture slide about what remains humanly central when using AI. A teacher and two older students collaboratively discuss a real task at a table; a quiet laptop and subtle abstract AI pattern are present as a supportive tool, but faces, conversation, attention, judgment and shared work are clearly central. No sci-fi robots, no holograms, no text, no logos, no readable screen. Modern learning environment, warm ivory, sage green and restrained deep teal, premium natural editorial illustration, medium detail, people fully visible, room for the image to sit next to HTML explanation. Soft rounded visual language and a minimal gentle shadow falling to the right.",
+  "negative_prompt": "3d render, low resolution, hyper-realism, noisy, cluttered, complex background, hand-drawn sketch, english text, German text, wrong spelling, labels, letters, numbers, logo, watermark, robots, glowing holograms, stock-photo posing, exaggerated technology, heavy shadows, oversaturated colors, cropped faces, distorted hands",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean natural educational editorial illustration",
+    "lighting": "soft warm daylight",
+    "camera_angle": "eye-level collaborative scene",
+    "depth_of_field": "moderate depth of field",
+    "quality": "human-centred, calm, credible"
+  }
+}

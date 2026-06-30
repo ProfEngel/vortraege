@@ -1,0 +1,17 @@
+{
+  "prompt": "Editorial 16:9 opening background for a German upper-secondary lecture titled Mensch und KI. A credible optimistic contemporary classroom learning scene: several older teenagers and one teacher collaborate around a table with notebooks, sketch paper and a laptop; people and attentive exchange are clearly central, technology is present only as subtle abstract light patterns and quiet data-like connections in the room. Wide cinematic composition, group placed slightly right of centre and in the lower half; leave the upper-left area visually calm and a little darker for a semi-transparent HTML title box. Warm daylight, airy modern classroom, soft warm neutral palette with restrained deep teal and sage accents. No screen text, no logos, no readable documents, no watermarks, no sci-fi holograms, no cropped heads or hands. Premium natural editorial photography.",
+  "negative_prompt": "text, labels, logos, watermark, readable screen, readable paper, neon sci-fi holograms, exaggerated glowing technology, stock-photo poses, plastic skin, beauty filters, cluttered background, cropped people, distorted hands, oversaturated colors, harsh flash",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "natural editorial photography",
+    "lighting": "soft warm window daylight",
+    "camera_angle": "wide eye-level classroom scene",
+    "depth_of_field": "moderate depth of field",
+    "quality": "credible, inclusive, unretouched"
+  }
+}

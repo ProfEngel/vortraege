@@ -1,0 +1,17 @@
+{
+  "prompt": "Educational editorial illustration, 16:9, entirely text-free, for a German upper-secondary lecture about living, learning and working with AI. One cohesive wide scene with four clearly connected zones, no hard black borders: on the far left, a repetitive office routine is handled by calm automated digital workflow symbols; next, a person at a planning desk orchestrates several machine and information tools with a clear overview; next, two people are in a focused face-to-face conversation and collaborative learning situation; on the far right, skilled hands perform precise practical craft work on a physical object. The scene must communicate a responsible division of work: automation supports repeatable routines, while human judgment, planning, relationships and practical skill become more important. Modern AI textbook editorial illustration, muted pastel palette, warm ivory, sage green, deep teal and restrained amber, crisp medium-detail geometry, people fully visible, generous composition for an adjacent HTML text column. No text, no labels, no numbers, no logos, no watermark, no fear or job-loss imagery, no robots as people. Light rounded visual language with minimal subtle shadow cast to the right.",
+  "negative_prompt": "3d render, low resolution, hyper-realism, noisy, cluttered, complex background, hand-drawn sketch, english text, German text, wrong spelling, labels, letters, numbers, logo, watermark, pink slips, fired workers, dystopian robots, humanoid robots, heavy shadows, oversaturated colors, harsh lighting, cropped faces, distorted hands",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean modern educational editorial illustration",
+    "lighting": "soft neutral daylight with minimal rightward shadows",
+    "camera_angle": "wide eye-level narrative tableau",
+    "depth_of_field": "deep focus",
+    "quality": "clear, human-centred, text-free"
+  }
+}
