@@ -13,6 +13,7 @@
 !/.gitignore
 !/README.md
 
-# Systemdateien und temporäre Archive innerhalb der Präsentationen ignorieren
+# Systemdateien, PDFs und temporäre Archive innerhalb der Präsentationen ignorieren
 **/.DS_Store
 **/*.zip
+**/*.pdf
