@@ -2,6 +2,21 @@
 
 Dieses Verzeichnis ist ein lokaler, portabler Workflow für interaktive Vortragsunterlagen als HTML – ausdrücklich **keine PowerPoint-Dateien**. Jede fertige Präsentation lebt vollständig in ihrem eigenen Ordner und lässt sich ohne Build-Schritt kopieren oder offline öffnen.
 
+## 🌐 Live-Hosting & Navigation (GitHub Pages)
+
+Dieses Repository wird automatisch auf GitHub Pages gehostet:
+*   **Zentrales Dashboard:** [https://profengel.github.io/vortraege/](https://profengel.github.io/vortraege/)
+*   **KI Literacy Basics:** [Präsentation starten](https://profengel.github.io/vortraege/KI%20Literacy%20Basics/presentation.html)
+*   **KI und Wir:** [Präsentation starten](https://profengel.github.io/vortraege/KI%20und%20Wir/presentation.html)
+
+### 💡 Quellcode vs. Live-Ansicht
+Wenn du die Präsentationen im GitHub-Repository (`github.com/...`) anschaust, siehst du den rohen HTML-Quellcode. Nutze die obigen Links, um die fertig gerenderten Folien direkt im Browser anzuzeigen.
+
+### 📜 Scroll-Modus (Alle Folien untereinander scrollen)
+Da die Präsentationen als klassische Slideshows aufgebaut sind (eine Folie zur Zeit), gibt es im normalen Modus keine vertikalen Scrollbalken. Um alle Folien untereinander zu scrollen:
+1.  **Druckvorschau:** Öffne die Präsentation und drücke **`Cmd + P`** (Mac) bzw. **`Strg + P`** (Windows). In der Vorschau kannst du alle Folien bequem durchscrollen.
+2.  **CSS-Print-Emulation:** Öffne die Entwicklertools (`F12`), drücke `Cmd + Shift + P` (Mac) bzw. `Strg + Shift + P` (Windows), suche nach `Emulate CSS media type` und wähle `print` aus.
+
 ## Schnellstart
 
 1. Öffne `template/briefing.html` im Browser.
