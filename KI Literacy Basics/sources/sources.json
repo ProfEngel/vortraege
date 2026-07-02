@@ -123,5 +123,23 @@
       "slide-33-abschlussquiz",
       "slide-34-glossar"
     ]
+  },
+  {
+    "id": "S1",
+    "type": "student-project",
+    "author": "Studierende der HFWU (SoSe 2026)",
+    "year": "2026",
+    "title": "Semesterprojekte im Modul Data Science und KI",
+    "url": "#",
+    "accessed": "2026-07-02",
+    "evidence": "illustrative",
+    "claim": "Projektarbeiten von Studierenden zur praktischen Anwendung von KI-Agenten und Prompts in Web-Dashboards (RestaurantFinder, StudyBuddy, Karriereberater, swimcoach agent, Essy's Salon Assistant).",
+    "slideIds": [
+      "slide-33b-student-restaurant-finder",
+      "slide-33c-student-study-buddy",
+      "slide-33d-student-karriereberater",
+      "slide-33e-student-swimcoach",
+      "slide-33f-student-salon-assistant"
+    ]
   }
 ]

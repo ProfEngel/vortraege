@@ -10,6 +10,7 @@ Stand: 2026-06-29. Diese Präsentation trennt bewusst zwischen **Evidenz (wissen
 | M1 | Technische Spezifikation | Folie 21: Tool-Anbindung, Schnittstellen und das Model Context Protocol (MCP) |
 | H1 | Peer-reviewed Paper | Folien 12, 16: RLHF-Training und die Ursachen von Halluzinationen |
 | I1 | Interne Aufbauhilfe | Didaktische Heuristiken, Vorlesungsthemen und Abfolge |
+| S1 | Illustrativ / Praxis | Studentische Projektbeispiele (RestaurantFinder, StudyBuddy, Karriereberater, swimcoach agent, Salon Assistant) |
 
 ## Methodische Grenzen
 

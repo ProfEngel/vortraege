@@ -11,6 +11,7 @@ Stand: 2026-06-23. Diese Präsentation trennt bewusst zwischen **Evidenz**, **di
 | I1 | Interne Aufbauhilfe | Metaphern, vorhandene Bilder, didaktische Reihenfolge |
 | G1 | Illustrativ | Folie 25; keine Tatsachenbehauptung |
 | G9 | Illustrativ | Folie 9; analoger Telefonbuch-Lookup |
+| S1 | Illustrativ / Praxis | Studentische Projektbeispiele (RestaurantFinder, StudyBuddy, Karriereberater, swimcoach agent, Salon Assistant) |
 
 
 ## Methodische Grenzen
