@@ -9,7 +9,9 @@
     "accessed": "2026-06-23",
     "evidence": "official",
     "claim": "Demografie in Deutschland: knapp 83,6 Millionen Einwohner Ende 2024; 25,5 Millionen beziehungsweise 30,5 % mindestens 60 Jahre alt. Der Sterbefallüberschuss lag 2024 bei rund 330.000, der vorläufige Wanderungssaldo bei rund +420.000.",
-    "slideIds": ["slide-18-berufe-2030"]
+    "slideIds": [
+      "slide-18-berufe-2030"
+    ]
   },
   {
     "id": "D2",
@@ -21,7 +23,9 @@
     "accessed": "2026-06-23",
     "evidence": "official",
     "claim": "Bevölkerungsalterung ist ein globales Phänomen; die Ausprägung und Folgen unterscheiden sich nach Region.",
-    "slideIds": ["slide-18-berufe-2030"]
+    "slideIds": [
+      "slide-18-berufe-2030"
+    ]
   },
   {
     "id": "L1",
@@ -34,7 +38,11 @@
     "accessed": "2026-06-23",
     "evidence": "research",
     "claim": "25 % der globalen Beschäftigung liegen in Berufen mit zumindest etwas GenAI-Exposition; 3,3 % in der höchsten Stufe weltweit und 34 % mit etwas Exposition in Hochlohnländern. Transformation ist wahrscheinlicher als vollständige Ersetzung.",
-    "slideIds": ["slide-15-arbeitskarte", "slide-16-aufgaben-statt-jobs", "slide-17-qualifikationswandel"]
+    "slideIds": [
+      "slide-15-arbeitskarte",
+      "slide-16-aufgaben-statt-jobs",
+      "slide-17-qualifikationswandel"
+    ]
   },
   {
     "id": "L2",
@@ -47,7 +55,10 @@
     "accessed": "2026-06-23",
     "evidence": "research",
     "claim": "Empirische Befunde zeigen reale, aber ungleich verteilte Produktivitätseffekte; großflächige Verdrängung ist bislang begrenzt.",
-    "slideIds": ["slide-15-arbeitskarte", "slide-16-aufgaben-statt-jobs"]
+    "slideIds": [
+      "slide-15-arbeitskarte",
+      "slide-16-aufgaben-statt-jobs"
+    ]
   },
   {
     "id": "W1",
@@ -59,7 +70,11 @@
     "accessed": "2026-06-23",
     "evidence": "contextual",
     "claim": "Die globale Arbeitgeberbefragung erwartet bis 2030 Veränderungen bei 39 % der Kernkompetenzen; 63 % nennen Skill-Gaps als zentrale Transformationsbarriere. Technologische und menschliche Kompetenzen bleiben gemeinsam relevant.",
-    "slideIds": ["slide-17-qualifikationswandel", "slide-18-berufe-2030", "slide-19-menschlicher-vorteil"]
+    "slideIds": [
+      "slide-17-qualifikationswandel",
+      "slide-18-berufe-2030",
+      "slide-19-menschlicher-vorteil"
+    ]
   },
   {
     "id": "E1",
@@ -71,7 +86,9 @@
     "accessed": "2026-06-23",
     "evidence": "official",
     "claim": "Der AI Act hat einen gestaffelten Anwendungszeitplan; KI-Kompetenzpflichten und Verbote gelten bereits seit Februar 2025.",
-    "slideIds": ["slide-20-leitplanken"]
+    "slideIds": [
+      "slide-20-leitplanken"
+    ]
   },
   {
     "id": "E2",
@@ -83,7 +100,13 @@
     "accessed": "2026-06-23",
     "evidence": "official",
     "claim": "Für Bildung empfiehlt UNESCO einen menschenzentrierten, altersangemessenen Umgang mit GenAI sowie Datenschutz- und Validierungsmaßnahmen.",
-    "slideIds": ["slide-10-algorithmus-lernen", "slide-12-cloud-lokal", "slide-20-leitplanken", "slide-21-zukunftsvertrag"]
+    "slideIds": [
+      "slide-08-genai",
+      "slide-10-algorithmus-lernen",
+      "slide-12-cloud-lokal",
+      "slide-20-leitplanken",
+      "slide-21-zukunftsvertrag"
+    ]
   },
   {
     "id": "I1",
@@ -95,7 +118,23 @@
     "accessed": "2026-06-23",
     "evidence": "internal-context",
     "claim": "Didaktische Metaphern, vorhandene Abbildungen und Ablaufhilfe; nicht alleinige Evidenz für externe Tatsachenbehauptungen.",
-    "slideIds": ["slide-03-hardware", "slide-05-lernen", "slide-06-neuron", "slide-07-generalisieren", "slide-09-kreativitaet", "slide-10-algorithmus-lernen", "slide-11-rag", "slide-12-cloud-lokal", "slide-13-agenten", "slide-14-agent-beispiel", "slide-20-leitplanken"]
+    "slideIds": [
+      "slide-03-hardware",
+      "slide-05-evolution-ki",
+      "slide-05b-bubblesort-static",
+      "slide-05c-bubblesort-animated",
+      "slide-10-algorithmus-lernen",
+      "slide-06-neuron",
+      "slide-07-generalisieren",
+      "slide-07b-ukulele",
+      "slide-05-lernen",
+      "slide-09-kreativitaet",
+      "slide-11-rag",
+      "slide-12-cloud-lokal",
+      "slide-13-agenten",
+      "slide-14-agent-beispiel",
+      "slide-20-leitplanken"
+    ]
   },
   {
     "id": "T1",
@@ -107,7 +146,9 @@
     "accessed": "2026-06-23",
     "evidence": "institutional",
     "claim": "Homo sapiens entstand vor rund 300.000 Jahren; die Nutzung von Feuer und frühe Innovationen liegen weit vor der jüngeren Technikgeschichte.",
-    "slideIds": ["slide-03-hardware"]
+    "slideIds": [
+      "slide-03-hardware"
+    ]
   },
   {
     "id": "T2",
@@ -119,7 +160,9 @@
     "accessed": "2026-06-23",
     "evidence": "reference",
     "claim": "Orientierungsdaten für Rad, Buchdruck, Elektrifizierung, Automobil, Internet und Smartphone; einzelne frühe Innovationen werden als ungefähre Zeitpunkte dargestellt.",
-    "slideIds": ["slide-03-hardware"]
+    "slideIds": [
+      "slide-03-hardware"
+    ]
   },
   {
     "id": "T3",
@@ -131,7 +174,9 @@
     "accessed": "2026-06-23",
     "evidence": "reference",
     "claim": "Cleopatra lebte zeitlich näher an der Gegenwart als am Bau der Großen Pyramide; die Folie nutzt dies als Chronologie-Perspektive.",
-    "slideIds": ["slide-03-hardware"]
+    "slideIds": [
+      "slide-03-hardware"
+    ]
   },
   {
     "id": "G1",
@@ -143,7 +188,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Illustration, keine faktische Evidenz.",
-    "slideIds": ["slide-19-menschlicher-vorteil"]
+    "slideIds": [
+      "slide-19-menschlicher-vorteil"
+    ]
   },
   {
     "id": "I2",
@@ -167,7 +214,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Textfreie didaktische Illustration, keine faktische Evidenz.",
-    "slideIds": ["slide-10-algorithmus-lernen"]
+    "slideIds": [
+      "slide-10-algorithmus-lernen"
+    ]
   },
   {
     "id": "G3",
@@ -179,7 +228,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Titelbild, keine faktische Evidenz.",
-    "slideIds": ["slide-01-auftakt"]
+    "slideIds": [
+      "slide-01-auftakt"
+    ]
   },
   {
     "id": "G4",
@@ -191,7 +242,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Leitfragenbild, keine faktische Evidenz.",
-    "slideIds": ["slide-02-frage"]
+    "slideIds": [
+      "slide-02-frage"
+    ]
   },
   {
     "id": "G5",
@@ -203,7 +256,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Illustrative Berufsbilder, keine quantitative Rangfolge oder Prognose.",
-    "slideIds": ["slide-16-aufgaben-statt-jobs"]
+    "slideIds": [
+      "slide-16-aufgaben-statt-jobs"
+    ]
   },
   {
     "id": "G6",
@@ -215,7 +270,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Illustration der unterschiedlichen Rollen von Automation, Orchestrierung, Beziehung und praktischer Arbeit; keine quantitative Prognose.",
-    "slideIds": ["slide-19-menschlicher-vorteil"]
+    "slideIds": [
+      "slide-19-menschlicher-vorteil"
+    ]
   },
   {
     "id": "G7",
@@ -227,7 +284,9 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Textfreie Symbolillustration; Datierungen und Fakten stehen separat in der HTML-Zeitleiste.",
-    "slideIds": ["slide-03-hardware"]
+    "slideIds": [
+      "slide-03-hardware"
+    ]
   },
   {
     "id": "G8",
@@ -239,6 +298,22 @@
     "accessed": "2026-06-23",
     "evidence": "illustrative",
     "claim": "Textfreie Metapher für kurzfristigen Hype, langsame Voraussetzungen und langfristige Wirkung; keine empirische Kurve.",
-    "slideIds": ["slide-04-amaras-law"]
+    "slideIds": [
+      "slide-04-amaras-law"
+    ]
+  },
+  {
+    "id": "G9",
+    "type": "generated-image",
+    "author": "Kie.ai / Nano Banana 2",
+    "year": "2026",
+    "title": "Analoger Telefonbuch-Lookup als algorithmischer Ablauf",
+    "url": "../assets/media/telefonbuch_suche.png",
+    "accessed": "2026-06-23",
+    "evidence": "illustrative",
+    "claim": "Pädagogische Vektor-Illustration zur Verdeutlichung einer traditionellen Namenssuche ohne maschinelles Lernen.",
+    "slideIds": [
+      "slide-05d-telefonbuch"
+    ]
   }
 ]
