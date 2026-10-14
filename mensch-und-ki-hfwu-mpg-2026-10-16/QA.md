@@ -1,3 +1,7 @@
+# Zweiter Review · sofortigen Zusatzhinweis entfernt
+
+Das sofortige Zusatzbanner ist auf Nutzerwunsch entfernt; die zeitgesteuerte Aufklärung ab zwei Dritteln des Videos bleibt erhalten. Der nachfolgende Abschnitt dokumentiert den vorherigen Prüfstand.
+
 # Prüfung · 14.10.2026
 
 Gezielte Kopie mit 36 Folien. Alle Medien erreichbar, keine gemeldeten JavaScript-Fehler oder Inhalte außerhalb der Folienbühne. Folien 1/2/4 visuell bei 1600 × 900 geprüft; zusätzlich Cover/QR bei 1024 × 768 und QR im Dark-Modus. Kein physischer iPad-Test. Layout und übrige Inhalte aus dem Original übernommen, keine neue fachliche Quellenprüfung behauptet.
