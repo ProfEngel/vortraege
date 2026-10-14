@@ -8,10 +8,11 @@
   ],
   "ratio": "16:9",
   "durationMinutes": 45,
-  "desiredSlideCount": 36,
+  "desiredSlideCount": 38,
   "layout": "Unverändertes Bestandslayout KI und Wir; kein Templatewechsel",
   "publicUrl": "https://profengel.github.io/vortraege/mensch-und-ki-hfwu-mpg-2026-10-16/presentation.html",
-  "approval": "Foliengenauer Nutzerauftrag mit Duplizierung und Veröffentlichung, 14.10.2026",
+  "approval": "Foliengenauer Nutzerauftrag mit Duplizierung und Veröffentlichung, 14.10.2026; Mitmach-Erweiterung am 14.10.2026 ausdrücklich bestätigt",
   "sources": "sources/source-overview.html",
-  "review": "review.html"
+  "review": "review.html",
+  "activitiesMinutes": 5
 }

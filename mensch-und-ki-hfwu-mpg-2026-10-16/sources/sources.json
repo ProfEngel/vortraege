@@ -346,5 +346,31 @@
     "slideIds": [
       "slide-02b-kanzler-merz-fake"
     ]
+  },
+  {
+    "id": "U1",
+    "author": "Prof. Dr. Mathias Engel / Lehrkonzeption",
+    "year": "2026",
+    "title": "Mitmachübung: Echt, KI oder unsicher?",
+    "type": "didactic activity",
+    "url": "../MITMACH_MODERATION.md",
+    "accessed": "2026-10-14",
+    "evidence": "Eigene Unterrichtsaktivität, keine empirische Studie. Clipprovenienz siehe M16.",
+    "slideIds": [
+      "slide-02c-echt-ki-unsicher"
+    ]
+  },
+  {
+    "id": "U2",
+    "author": "Prof. Dr. Mathias Engel / Lehrkonzeption",
+    "year": "2026",
+    "title": "Mitmachübung: Einen Auftrag verbessern",
+    "type": "didactic activity",
+    "url": "../MITMACH_MODERATION.md",
+    "accessed": "2026-10-14",
+    "evidence": "Didaktischer Beispielprompt, keine Produktgarantie und kein wissenschaftliches Direktzitat.",
+    "slideIds": [
+      "slide-08b-prompt-verbessern"
+    ]
   }
 ]

@@ -1,0 +1,35 @@
+/* Zwei gezielte Mitmachfolien; kein Templatewechsel. */
+.mini-activity{--lesson-accent:#24666a;padding:3.8% 6% 6%}
+.mini-activity .kicker,.mini-activity .eyebrow,.mini-activity .slide-sources a{color:var(--lesson-accent)}
+.slide.active.mini-activity{display:flex;flex-direction:column}
+.mini-activity .slide-top{flex:none;grid-template-columns:15% 1fr 15%;margin-bottom:1.2%;padding-bottom:1%}
+.mini-activity .activity-body{flex:1;min-height:0;height:auto!important;align-content:center;gap:.85rem}
+.activity-lead,.pair-instruction{font-size:clamp(1rem,1.25vw,1.25rem);line-height:1.35;margin:.25rem 0}
+.vote-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.activity-card,.prompt-compass article{padding:1rem 1.2rem;border:1px solid var(--line);border-radius:16px;background:var(--card)}
+.activity-card .choice-symbol{display:block;color:var(--lesson-accent);font-size:2.5rem;line-height:1;margin-bottom:.45rem}
+.activity-card h2{font-size:clamp(1.3rem,2vw,2rem);margin:.25rem 0 .4rem;letter-spacing:-.04em}
+.activity-card p,.prompt-compass p{font-size:clamp(.9rem,1.08vw,1.08rem);line-height:1.35;margin:0}
+.activity-actions{display:flex;flex-wrap:wrap;gap:.5rem}
+.activity-actions button,.video-exercise-start{font:700 .9rem/1.25 system-ui;border:1px solid var(--line);color:var(--ink);background:var(--card);padding:.6rem .85rem;border-radius:10px;cursor:pointer}
+.activity-actions .lesson-primary{background:var(--lesson-accent);color:#fff;border-color:var(--lesson-accent)}
+.activity-actions button:focus-visible,.video-exercise-start:focus-visible,.activity-clock button:focus-visible{outline:3px solid #d4a92f;outline-offset:3px}
+.activity-answer{padding:.8rem 1rem;border-left:4px solid var(--lesson-accent);border-radius:10px;background:var(--card);font-size:clamp(.95rem,1.1vw,1.1rem);line-height:1.4}
+.activity-answer p{margin:.3rem 0}.activity-answer small{display:block;font-size:.85rem;color:var(--muted);line-height:1.35}
+.activity-answer blockquote{margin:0 0 .4rem;font-size:clamp(.98rem,1.2vw,1.2rem);line-height:1.4}
+.prompt-task-grid{display:grid;grid-template-columns:1fr 1.1fr;gap:2rem;align-items:center}
+.weak-prompt{font-size:clamp(1.65rem,2.8vw,3rem);line-height:1.12;font-weight:750;letter-spacing:-.05em;margin:.7rem 0 1rem}
+.prompt-compass{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+.prompt-compass article{padding:.75rem 1rem}.prompt-compass span{color:var(--lesson-accent);font-size:.7rem;font-weight:850;letter-spacing:.12em}
+.prompt-compass h2{margin:.25rem 0;font-size:clamp(1.1rem,1.5vw,1.5rem);letter-spacing:-.03em}
+.activity-clock{justify-self:end;text-align:right;max-width:100%;line-height:1.2}
+.activity-clock output{font-size:1.3rem;font-weight:750;color:var(--muted);font-variant-numeric:tabular-nums}
+.activity-clock>div{display:flex;gap:.2rem;margin:.15rem 0;justify-content:flex-end}
+.activity-clock button{font:600 .6rem system-ui;border:1px solid var(--line);border-radius:5px;background:var(--card);color:var(--ink);padding:.2rem .3rem;cursor:pointer}
+.activity-clock small{font-size:.55rem;color:var(--muted)}
+.video-exercise-start{position:absolute;left:18%;bottom:1%;font-size:.7rem;padding:.35rem .55rem;z-index:2}
+html[data-theme=dark] .mini-activity{--lesson-accent:#94d8b3}
+html[data-theme=dark] .activity-actions .lesson-primary{color:#153330}
+@media(prefers-color-scheme:dark){html:not([data-theme=light]) .mini-activity{--lesson-accent:#94d8b3}html:not([data-theme=light]) .activity-actions .lesson-primary{color:#153330}}
+@media(max-width:1100px){.mini-activity .activity-body{gap:.55rem}.activity-card{padding:.7rem 1rem}.activity-card .choice-symbol{font-size:2rem}.prompt-task-grid{gap:1rem}.prompt-compass article{padding:.6rem .7rem}.activity-answer{padding:.6rem .8rem}.activity-answer small{font-size:.73rem}.activity-actions button{font-size:.78rem;padding:.45rem .65rem}}
+@media print{.mini-activity{display:flex!important;flex-direction:column;--lesson-accent:#24666a!important}.activity-clock,.activity-actions,.video-exercise-start{display:none!important}.mini-activity .activity-answer[hidden]{display:block!important}.mini-activity .slide-top{grid-template-columns:15% 1fr}}

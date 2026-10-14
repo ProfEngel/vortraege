@@ -24,3 +24,7 @@ Stand: 2026-06-23. Diese Präsentation trennt bewusst zwischen **Evidenz**, **di
 ## [M16] Neuer Demonstrationsclip · 14.10.2026
 
 KI-generierte Ansprache zur Schulkooperation; vom Vortragenden zur Einbindung und Veröffentlichung bereitgestellt. Originalclip: 15,2 Sekunden, H.264/AAC, ein Frame tatsächlich geöffnet. Keine echte Ansprache und kein Beleg politischer Aussagen. Keine verifizierten Hersteller-/Toolangaben. Der fachliche Quellenstand des übrigen Vortrags bleibt unverändert.
+
+## U1 / U2 · Eigene Mitmachübungen
+
+Mündliche Einschätzung/Verifikation und Promptverbesserung. Eigene Lehrkonzeption, keine empirischen Studien, externen Zitate oder Modellversprechen. Moderation und Grenzen: MITMACH_MODERATION.md.
