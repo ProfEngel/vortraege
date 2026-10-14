@@ -1,8 +1,8 @@
 # Zwei Mitmachmomente · Moderation
 
-## 1 · Echt, KI oder unsicher? (etwa zwei Minuten)
+## 1 · Was war euer erster Eindruck? (kurzer Rückblick)
 
-Auf der Videofolie „Ausschnitt & abstimmen“ wählen: fünf Sekunden Clip, dann automatisch zur Abstimmung. Erst Handzeichen, danach mit dem Sitznachbarn über ein überzeugendes oder zweifelhaftes Detail sprechen (Timer maximal eine Minute). Keine Personen bloßstellen; „unsicher“ ausdrücklich zulassen. „Video weitersehen & auflösen“ spielt weiter. Der ursprüngliche Warnhinweis erscheint ab zwei Dritteln; nach Ende Rückkehr zur Auflösung. Dann fragen: „Was bräuchten wir zur Prüfung?“ Ursprung, Kontext und unabhängige Bestätigung sammeln. Nicht behaupten, Gesicht, Stimme oder ein einzelner Artefakt verrieten immer zuverlässig KI. Bei Videoproblemen „Auflösen ohne Video“ benutzen. Native Videosteuerung bleibt als Alternative.
+Das Video auf Folie 4 ganz normal mit der vorhandenen Videosteuerung zeigen. Die bisherige spätere Deepfake-Aufklärung bleibt erhalten. Danach zu Folie 5 wechseln und rückblickend per Handzeichen fragen: Wer hielt die Ansprache zunächst für echt? Wer vermutete KI? Wer war unsicher? Optional ein bis zwei Begründungen sammeln: „Woran habt ihr eure Einschätzung festgemacht?“ Keine Zweierarbeit, kein weiterer Videoausschnitt, keine Fortsetzungs-/Auflösungsbuttons und kein Timer für diese kurze Rückblickfrage. Es geht um den ursprünglichen Eindruck, nicht um nachträglich richtige Antworten. „Unsicher“ ausdrücklich zulassen; niemanden bloßstellen.
 
 ## 2 · Macht diesen Auftrag besser! (etwa drei Minuten)
 

@@ -2,15 +2,15 @@
 
 Nutzerentscheidung „ja bitte einbinden“ bestätigt die zwei vorgeschlagenen Aktivitäten. Gezielte Erweiterung im vorhandenen Layout, kein neuer Vortrag und keine neue Fachrecherche. Jetzt 38 Folien statt 36; weiterhin bisheriger Rahmen 45 Minuten.
 
-- Folie 4: „Ausschnitt & abstimmen“ spielt fünf Sekunden und führt zur neuen Abstimmungsfolie. Native Videosteuerung funktioniert daneben unverändert.
-- Folie 5: Echt / KI / unsicher per Handzeichen, kurzer Paarvergleich; Ein-Minuten-Timer. Video fortsetzen, danach Auflösung und Frage nach belastbarer Prüfung. Alternativ Auflösung ohne Videowiedergabe. Insgesamt etwa zwei Minuten.
+- Folie 4: Video normal vollständig abspielen; ursprüngliche spätere Aufklärung bleibt unverändert. Keine Ausschnitt-Automatik oder automatische Navigation.
+- Folie 5: Rückblick im Plenum: Wer dachte zunächst echt / KI / unsicher? Kurz per Handzeichen, optional ein bis zwei Begründungen. Kein Paarvergleich, Timer, erneutes Video oder Auflösungsbutton.
 - Folie 18, direkt nach generativer KI: „Mach mir ein Referat über KI“ zu zweit in 60 Sekunden verbessern. Zwei Vorschläge sammeln, mögliche Verbesserung erst auf Knopfdruck zeigen. Insgesamt etwa drei Minuten.
 
 Keine Geräte, Konten, Papiermaterialien oder persönlichen Eingaben erforderlich. Keine individuellen Abstimmungsdaten gespeichert. Bestehende obere Videobeschriftung neutral, Fußhinweis und spätere Deepfake-Aufklärung unverändert. Alle ursprünglichen IDs bleiben erhalten.
 
 Zeitplanung: fünf Minuten der bisherigen Sprechzeit zugunsten der Aktivitäten umverteilen, nicht 45+5 Minuten. Historie/Technik entlang der Bilder kurz erläutern statt Text vorzulesen; die fünf Projektbeispiele am Schluss als kurze Galerie (zusammen höchstens zwei Minuten), Details nur auf Nachfrage. Restliche Sprechzeit etwa 40 Minuten inklusive Abschlussfragen. Keine fachlichen Folien gelöscht; bei längerer Diskussion gezielt die Galerie knapp halten.
 
-Prüfung: 38 Folien und Review-/Druckeinträge, neue Layouts hell/dunkel/1024×768, Timer Start/Pause/Reset, Space auf fokussierten Knöpfen, Ausschnitt → Abstimmung → Fortsetzung → spätere Warnung → Auflösung, unverändertes Originalmedium, vollständiges ZIP und Online-Veröffentlichung.
+Prüfung: 38 Folien und Review-/Druckeinträge, neue Layouts hell/dunkel/1024×768, verbleibender Prompt-Timer Start/Pause/Reset, Space auf fokussierten Knöpfen, ununterbrochenes Video mit späterer Warnung → manueller Wechsel zum Rückblick, unverändertes Originalmedium, vollständiges ZIP und Online-Veröffentlichung.
 
 ## Historischer Duplikatplan
 

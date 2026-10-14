@@ -13,3 +13,7 @@ Eigenständige Kopie, nur Folien 1/2/4 angepasst: Anlass/Datum ohne Uhrzeit und 
 ## Bestätigte zwei Mitmachmomente
 
 14.10.2026: 38 statt 36 Folien, keine ursprünglichen Folien gelöscht. Ausschnitt-/Abstimmungsablauf mit Fortsetzung und späterer Aufklärung; mündliche Promptverbesserung mit optionalem Beispiel. Zwei diskrete Ein-Minuten-Timer. Review, Druck, Metadaten und Zeitmoderation synchronisiert; weiterhin 45 Minuten. Keine neue Rasterbildgenerierung oder Fachquellenprüfung.
+
+## Folie 5 als Rückblick im Plenum
+
+14.10.2026: ursprünglichen Eindruck nach vollständigem Video abfragen. Keine Zweierarbeit, kein erneutes Video, keine Auflösungs-/Fortsetzungsbuttons. Ausschnitt-Knopf und gesamte automatische Video-Navigation entfernt, ebenso der Rückblick-Timer. Promptaufgabe unverändert. IDs, 38 Folien und spätere Deepfake-Aufklärung bleiben erhalten.

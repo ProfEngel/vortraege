@@ -1,3 +1,7 @@
+# Aktueller Review · Rückblick statt Ausschnittaufgabe
+
+Folie 5 fragt retrospektiv nach echt / KI / unsicher per Handzeichen. Keine Paararbeit oder Rückkehr ins Video. Alte Automatik und Zusatzknöpfe entfernt; keine neue Videoverarbeitung. Der Prompt-Timer und die spätere Warnung bleiben. Nachfolgende Abschnitte sind historische Prüfstände.
+
 # Mitmach-Erweiterung · aktueller Prüfauftrag
 
 38 Folien, fünf Minuten Aktivierung innerhalb des bisherigen Zeitrahmens. Alle Medien erreichbar, keine gemeldeten Layout- oder JavaScript-Fehler. Zwei Timer: Start, stabiler Pausenzustand, Reset und Fortlauf geprüft. Tatsächlicher Browserablauf: Ausschnitt stoppt bei etwa fünf Sekunden, führt zur Abstimmung, setzt den Clip fort, erhält die spätere Warnung und kehrt nach Ende zur Auflösung zurück. Reset und Auflösung ohne Video geprüft. Beispielprompt anfangs verborgen; mit Space auf fokussiertem Knopf aufdeckbar, ohne Folienwechsel. Druck und Offline-Review jeweils 38 Einträge. Neue Folien samt Lösungen hell/dunkel und bei 1024 × 768 tatsächlich visuell geprüft. Physischer iPad-Test offen. Prüfdaten lokal unter `.Werkstatt/Review_20261014/activities`. Nachfolgende Abschnitte dokumentieren frühere Fassungen.
