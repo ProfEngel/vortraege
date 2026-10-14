@@ -1,0 +1,17 @@
+{
+  "prompt": "Editorial 16:9 background for a German upper-secondary lecture about humans and AI. A thoughtful close but wide scene: one student and one teacher sit at a large table, jointly examining a physical paper sketch and a quiet laptop; their body language conveys curiosity, judgment and collaboration. A restrained abstract pattern of interconnected points is softly reflected in the room, supporting the topic without looking futuristic. Place people toward the right third and lower half, leave generous calm negative space on the left for a semi-transparent HTML guiding-question box. Modern learning studio, warm ivory and soft sage colours, subtle deep teal accents, natural window light, premium natural editorial photography. No text anywhere, no logos, no readable screens or documents, no watermark, no visual clutter, no cropped bodies.",
+  "negative_prompt": "text, labels, logos, watermark, readable screen, readable paper, neon holograms, stock-photo smiles, plastic skin, beauty filters, cluttered environment, cropped heads, cropped hands, distorted anatomy, oversaturated colors, harsh lighting",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "natural editorial photography",
+    "lighting": "soft warm daylight",
+    "camera_angle": "wide eye-level collaborative scene",
+    "depth_of_field": "moderate depth of field",
+    "quality": "calm, credible, human-centred"
+  }
+}

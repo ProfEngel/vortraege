@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 4,
+  "title": "Mensch und KI - Wie wir morgen leben, lernen und arbeiten",
+  "event": "Schulkooperation HfWU und MPG, 16. Oktober 2026",
+  "presenter": "Prof. Dr. Mathias Engel",
+  "languages": [
+    "de"
+  ],
+  "ratio": "16:9",
+  "durationMinutes": 45,
+  "desiredSlideCount": 36,
+  "layout": "Unverändertes Bestandslayout KI und Wir; kein Templatewechsel",
+  "publicUrl": "https://profengel.github.io/vortraege/mensch-und-ki-hfwu-mpg-2026-10-16/presentation.html",
+  "approval": "Foliengenauer Nutzerauftrag mit Duplizierung und Veröffentlichung, 14.10.2026",
+  "sources": "sources/source-overview.html",
+  "review": "review.html"
+}

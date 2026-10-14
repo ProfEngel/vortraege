@@ -1,0 +1,17 @@
+{
+  "prompt": "Educational slide illustration, 16:9, entirely text-free. A clear side-by-side contrast for a German upper-secondary lecture: on the left a deterministic algorithm as a fixed, orderly process of connected input blocks, arrows, one decision diamond and a single predictable output; on the right a learning AI system shown through many diverse example tokens, repeated training iterations and an emerging smooth decision boundary that generalizes to a new nearby case. The visual message must be instantly understandable without labels: fixed predefined procedure versus learning recurring patterns through practice. Generous empty white background, no cards, no UI screenshots, no text, no letters, no numbers. Modern AI textbook illustration, muted pastel palette with deep navy, calm teal, sage green and restrained warm amber. Medium detail, crisp geometry, subtle rounded forms, extremely soft rightward cast shadows only, large clear forms, no cropping, balanced two-panel composition.",
+  "negative_prompt": "3d render, low resolution, hyper-realism, noisy, cluttered, complex background, hand-drawn sketch, english text, German text, wrong spelling, labels, letters, numbers, watermark, logo, heavy shadows, oversaturated colors, harsh lighting, dark background, dense decoration",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean modern AI textbook illustration",
+    "lighting": "soft neutral studio light with extremely subtle rightward shadow",
+    "camera_angle": "front-facing orthographic educational composition",
+    "depth_of_field": "deep focus",
+    "quality": "highly legible, medium detail, text-free"
+  }
+}

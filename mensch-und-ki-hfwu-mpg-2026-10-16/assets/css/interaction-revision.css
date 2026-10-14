@@ -1,0 +1,2 @@
+/* Keep interaction where it teaches a mechanism, not where it merely asks for a reaction. */
+.slide:not(#slide-22-abschlussquiz):not(#slide-20-leitplanken) .choice-row,.slide:not(#slide-22-abschlussquiz):not(#slide-20-leitplanken) .choice-row+.answer{display:none}

@@ -1,0 +1,6 @@
+/* Nur die beauftragten Folien der eigenständigen Oktober-Kopie. */
+#slide-02-qr-code .content.two{grid-template-columns:1.25fr .85fr!important;gap:4%}
+#slide-02-qr-code .display{font-size:clamp(1.5rem,2.6vw,2.8rem);line-height:1.18;letter-spacing:-.04em}
+#slide-02-qr-code .media-frame{box-shadow:none}
+.deepfake-disclosure{position:absolute;z-index:9;top:0;left:50%;transform:translateX(-50%);margin:0;padding:.4rem .8rem;border-radius:8px;background:#fff4d3;color:#563600;font-size:.8rem;font-weight:800;white-space:nowrap}
+@media print{.fake-warning{display:none}.deepfake-disclosure{position:static;transform:none}}

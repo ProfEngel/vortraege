@@ -1,0 +1,17 @@
+{
+  "prompt": "Text-free educational timeline illustration, ultra-wide 16:9, for a German upper-secondary lecture. A precise chronological visual journey from deep prehistory to the present, left to right, with clearly separated epochs and one elegant symbolic landmark per core innovation: controlled fire flame, early human silhouette and stone tool, agriculture grain and field, wooden wheel, Gutenberg-style printing press, steam engine with small piston, electric light bulb and power line, early automobile, room-sized computer, connected internet nodes, smartphone, and a final abstract generative-AI prism with pattern particles. The time gaps must be visually enormous in the ancient left portion and increasingly compressed/staked toward the recent right side. No labels, no numbers, no letters; exact dates will be added as HTML. Modern AI textbook illustration, muted pastel colors, sage greens, pale ochres, muted teal, warm ivory, clean continuous timeline line, high information clarity, medium detail, no white card, no watermark. Use light rounded forms and only a very subtle rightward shadow.",
+  "negative_prompt": "text, German text, English text, numbers, labels, dates, logo, watermark, low resolution, 3d render, hyper-realism, noisy, cluttered background, hand-drawn sketch, oversaturated colors, harsh shadows, dense decoration, dark background",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean muted pastel educational illustration",
+    "lighting": "soft neutral studio light, minimal rightward shadow",
+    "camera_angle": "front-facing wide timeline",
+    "depth_of_field": "deep focus",
+    "quality": "clear symbols, uncluttered, text-free"
+  }
+}

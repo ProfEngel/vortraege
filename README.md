@@ -8,6 +8,7 @@ Dieses Repository wird automatisch auf GitHub Pages gehostet:
 *   **Zentrales Dashboard:** [https://profengel.github.io/vortraege/](https://profengel.github.io/vortraege/)
 *   **KI Literacy Basics:** [Präsentation starten](https://profengel.github.io/vortraege/KI%20Literacy%20Basics/presentation.html)
 *   **KI und Wir:** [Präsentation starten](https://profengel.github.io/vortraege/KI%20und%20Wir/presentation.html)
+*   **Mensch und KI - Wie wir morgen leben, lernen und arbeiten:** [Schulkooperation HfWU und MPG · 16. Oktober 2026](https://profengel.github.io/vortraege/mensch-und-ki-hfwu-mpg-2026-10-16/presentation.html) – eigenständige Vortragsfassung mit QR-Code und neuem Deepfake-Demonstrationsclip.
 
 ### 💡 Quellcode vs. Live-Ansicht
 Wenn du die Präsentationen im GitHub-Repository (`github.com/...`) anschaust, siehst du den rohen HTML-Quellcode. Nutze die obigen Links, um die fertig gerenderten Folien direkt im Browser anzuzeigen.

@@ -1,0 +1,17 @@
+{
+  "prompt": "Educational 16:9 five-panel professional collage, entirely text-free, for a German high-school lecture about changing work. Five equal vertical visual zones, integrated in one cohesive landscape image with no hard black borders. Depict, left to right: an office administrator working with forms and a computer; a media or graphic professional at a digital workstation; a software developer reviewing code-like abstract blocks; a care professional in a respectful human conversation; an electrician carefully working with physical equipment. Show varied genders and ages, natural professional settings, human-centred and respectful. The visual should support a discussion of differing task exposure to generative AI, never imply that people are disposable and never show job loss. Modern editorial illustration, muted pastel colours, soft greens, pale yellows, gentle earthy tones, clean AI textbook aesthetic, medium detail, all figures fully visible, no words, no letters, no numbers, no logos, no watermark. Gentle rounded visual language and minimal soft shadows cast to the right.",
+  "negative_prompt": "3d render, low resolution, hyper-realism, noisy, cluttered, complex background, hand-drawn sketch, english text, German text, wrong spelling, labels, letters, numbers, logo, watermark, pink slips, job loss imagery, fired workers, dramatic fear, heavy shadows, oversaturated colors, harsh lighting, cropped figures",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean modern educational editorial illustration",
+    "lighting": "soft neutral daylight with minimal rightward shadows",
+    "camera_angle": "straight-on five-panel tableau",
+    "depth_of_field": "deep focus",
+    "quality": "clear, respectful, text-free"
+  }
+}

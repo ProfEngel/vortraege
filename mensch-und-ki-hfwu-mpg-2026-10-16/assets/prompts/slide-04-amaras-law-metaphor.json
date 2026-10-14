@@ -1,0 +1,17 @@
+{
+  "prompt": "Text-free educational metaphor illustration, 16:9, for Amara's Law in a German upper-secondary lecture. One calm coherent scene divided by time from left to right: on the left, an overexcited crowd observes an early technological seed or small glowing invention with oversized fireworks and exaggerated expectations; in the centre, a long quiet phase shows roots spreading below ground, patient learning, infrastructure and everyday adoption; on the right, the same small seed has become a large useful tree whose branches connect homes, work and community, revealing broad long-term impact. The visual must clearly communicate: short-term hype is loud but shallow, long-term effect grows slowly and becomes larger than expected. No words, no charts, no labels, no numbers; explanatory German text will be HTML. Modern AI textbook editorial illustration, muted pastel palette, sage green, deep muted teal, pale gold, warm ivory, balanced composition, medium detail, gentle rounded shapes, subtle rightward cast shadow only, no watermark.",
+  "negative_prompt": "text, German text, English text, labels, numbers, logo, watermark, dark dystopian mood, cluttered background, low resolution, 3d render, hyper-realism, noisy, hand-drawn sketch, oversaturated colors, harsh lighting, heavy shadows",
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean muted pastel educational editorial illustration",
+    "lighting": "soft warm daylight with minimal rightward shadow",
+    "camera_angle": "wide front-facing metaphor scene",
+    "depth_of_field": "deep focus",
+    "quality": "clear narrative, text-free"
+  }
+}
