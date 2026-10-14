@@ -1,3 +1,7 @@
+# Dritter Review · Ansprachetitel
+
+Titel „Ansprache Bundeskanzler Merz“, oberer Kicker „ANSPRACHE“. Kein zusätzliches Warnbanner am Start. Fußhinweis und zeitgesteuerte Aufklärung unverändert. Nachfolgende Abschnitte dokumentieren die vorherigen Prüfstände.
+
 # Zweiter Review · sofortigen Zusatzhinweis entfernt
 
 Das sofortige Zusatzbanner ist auf Nutzerwunsch entfernt; die zeitgesteuerte Aufklärung ab zwei Dritteln des Videos bleibt erhalten. Der nachfolgende Abschnitt dokumentiert den vorherigen Prüfstand.
